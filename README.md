@@ -22,3 +22,8 @@ V1.2--- Updated and created the file %cd%\Modules
 	They add code to the program
 --THey are basically an easy way to mod this program
 
+V1.2--- Colorfull Batch
+-added colors to menus
+--Added "wifi password checker" to main menu
+
+
